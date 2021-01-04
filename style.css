@@ -6,6 +6,8 @@ body {
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   width: 700px;
+  margin: auto;
+  font-family: 
 }
 
 /* ID selector to select the element with id 'main-header' */
@@ -17,10 +19,4 @@ div {
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
-}
-
-
-h1 {
-  color: blue;
-  font-family: Georgia;
 }
